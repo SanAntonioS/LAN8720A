@@ -295,9 +295,9 @@ extern "C"
  *
  */
 
-/*#define BSP_USING_ETH*/
+#define BSP_USING_ETH
 #ifdef BSP_USING_ETH
-/*#define PHY_USING_LAN8720A*/
+#define PHY_USING_LAN8720A
 /*#define PHY_USING_DM9161CEP*/
 /*#define PHY_USING_DP83848C*/
 #endif
