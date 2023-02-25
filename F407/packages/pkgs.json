@@ -1,1 +1,17 @@
-[]
+[
+ {
+  "path": "/packages/iot/pahomqtt", 
+  "ver": "latest", 
+  "name": "PAHOMQTT"
+ }, 
+ {
+  "path": "/packages/iot/netutils", 
+  "ver": "latest", 
+  "name": "NETUTILS"
+ }, 
+ {
+  "path": "/packages/misc/samples/network_samples", 
+  "ver": "latest", 
+  "name": "NETWORK_SAMPLES"
+ }
+]
